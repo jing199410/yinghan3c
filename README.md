@@ -112,7 +112,7 @@
     <p>資訊設備通路與數位應用顧問</p>
   </header>
 
-  <img src="https://images.unsplash.com/photo-1581091870620-7f83b4413796?auto=format&fit=crop&w=1600&q=80" alt="科技產品橫幅圖" class="image-banner">
+  <img src="https://lurl.cc/bkk99&fit=crop&w=1600&q=80" alt="科技產品橫幅圖" class="image-banner">
 
   <section>
     <h2>產品項目</h2>
