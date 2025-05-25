@@ -172,8 +172,8 @@
     <h2>聯絡我們</h2>
     <div class="contact-info">
       <p>📧 service@yinghan3c.com</p>
-      <p>📱 0988-XXX-XXX</p>
-      <p>📍 台中市XX區XX路XX號</p>
+      
+      <p>📍 高雄市三民區博愛一路111號4樓</p>
     </div>
   </section>
 
