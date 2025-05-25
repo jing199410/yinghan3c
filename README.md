@@ -159,6 +159,7 @@
     <h2>聯絡我們</h2>
     <div class="contact-info">
       <p>📧 service@yinghan3c.com</p>
+      <p>📱 0988-XXX-XXX</p>
       <p>📍 台中市XX區XX路XX號</p>
     </div>
   </section>
