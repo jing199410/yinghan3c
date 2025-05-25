@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
@@ -168,8 +168,6 @@
     <p>© 2025 瀛翰3C. 瀛翰企業有限公司。統編：60692848</p>
   </footer>
 
-  <script>
-    console.log("歡迎來到瀛翰3C！");
-  </script>
+
 </body>
 </html>
