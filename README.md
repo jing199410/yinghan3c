@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
@@ -19,6 +20,17 @@
       background-color: var(--background-color);
       color: var(--text-color);
       scroll-behavior: smooth;
+      background-image:
+        radial-gradient(circle at 1px 1px, rgba(23, 72, 115, 0.06) 1px, transparent 0),
+        linear-gradient(135deg, rgba(59, 175, 218, 0.04) 25%, transparent 25%),
+        linear-gradient(225deg, rgba(59, 175, 218, 0.04) 25%, transparent 25%);
+      background-size: 20px 20px, 40px 40px, 40px 40px;
+      animation: animate-bg 30s linear infinite;
+    }
+
+    @keyframes animate-bg {
+      0% { background-position: 0 0, 0 0, 0 0; }
+      100% { background-position: 100px 100px, 100px 100px, 100px 100px; }
     }
 
     header {
@@ -112,6 +124,7 @@
     <p>資訊設備通路與數位應用顧問</p>
   </header>
 
+  <img src="https://lurl.cc/bkk99&fit=crop&w=1600&q=80" alt="科技產品橫幅圖" class="image-banner">
 
   <section>
     <h2>產品項目</h2>
@@ -167,6 +180,8 @@
     <p>© 2025 瀛翰3C. 瀛翰企業有限公司。統編：60692848</p>
   </footer>
 
-
+  <script>
+    console.log("歡迎來到瀛翰3C！");
+  </script>
 </body>
 </html>
